@@ -1,5 +1,0 @@
-C:\Users\EMMA\Documents\e.afamngeneCOS101\Week-6\projects\practice_1\target\debug\deps\practice_1.d: src\main.rs
-
-C:\Users\EMMA\Documents\e.afamngeneCOS101\Week-6\projects\practice_1\target\debug\deps\practice_1.exe: src\main.rs
-
-src\main.rs:
